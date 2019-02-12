@@ -12,6 +12,9 @@ Secret key: qhiGeUtg4KDufeMf7XcfBnfQbhN
 
 [package](https://github.com/storj/storj/tree/master/pkg/miniogw)
 
+by interacting with the gateway, all encryption and erasure encoding will be taken care of.
+this means that we can tlak with it directly and all will be good.
+
 ### Configuration
 
 Used to parse storj configuration files
